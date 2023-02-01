@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashant Bhavsar
-- 👀 I’m interested in Cybersecurity and Visual designs
+- 👀 I’m persuing M.Tech Cybersecurity and so much intrested as Cybersecurity researcher
 - 🌱 I’m currently learning Web Pentesting
 - 📫 Reach me on linktr.ee/prashant_30
 
