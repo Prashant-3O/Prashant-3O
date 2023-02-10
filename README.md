@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Prashant Bhavsar
 - 👀 I’m persuing M.Tech Cybersecurity and so much intrested as Cybersecurity researcher
 - 🌱 I’m currently learning Web Pentesting and Incident Response
-- 📫 Reach me on linktr.ee/prashant_30
+- 📫 Reach me on 
+[Prashant's Profile](https://linktr.ee/prashant_30)
 
 ![Work](https://img.shields.io/badge/Work-Cybersecurity%20Researcher-yellow)
 ![Hobby](https://img.shields.io/badge/Hobby-Visual%20Designer-lightblue)
