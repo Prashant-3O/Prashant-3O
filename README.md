@@ -11,6 +11,7 @@
 - 📄 Connect me on [https://linktr.ee/prashant_30](https://linktr.ee/prashant_30)
  
 <img src="https://tryhackme-badges.s3.amazonaws.com/Shant3012.png" alt="TryHackMe">
+[![An image of @prashant3o's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prashant3o)](https://holopin.io/@prashant3o)
 
 <h3 align="left">Operating System:</h3>
 <p align="left">
@@ -39,11 +40,11 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shant3012&show_icons=true&locale=en&theme=github_dark" alt="shant3012" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashant-3O&show_icons=true&locale=en&theme=github_dark" alt="shant3012" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shant3012&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="shant3012" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-3O&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="shant3012" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shant3012&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=FFFFFF&ring=0886EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prashant-3O&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=FFFFFF&ring=0886EB)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
