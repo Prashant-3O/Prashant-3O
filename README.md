@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pr45h4n7_30" target="blank"><img src="https://img.shields.io/twitter/follow/pr45h4n7_30?logo=twitter&style=for-the-badge" alt="pr45h4n7_30" /></a> </p>
 
-- 🔭 I’m currently Persuing on **M.Tech Cybersecurity and so much intrested as Cybersecurity researcher**
+- 🔭 I’m currently Pursuing **M. Tech Cybersecurity and so much interested as Cybersecurity researcher**
 - 🌱 I’m currently learning **Web Pentesting and Incident Response**
 - 💬 Ask me about **Cryptography and Designing**
 - 📄 Connect me on [https://linktr.ee/prashant_30](https://linktr.ee/prashant_30)
